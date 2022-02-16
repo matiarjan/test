@@ -10,8 +10,7 @@
       <!--header-->
    </head>
    <body>
-	   <h1>hello</h1>
-      <div class="container-fluid">
+	  <div class="container-fluid">
          <div class="row">
             <!--sidemenu-->   
             <?php include ("master/sidemenu.php"); ?> 
